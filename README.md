@@ -1,7 +1,7 @@
 # CS61A
 
 ## Project 1: Hog
-Developed a simular and multiple startegies for the game Hog.
+Developed a simulator and multiple startegies for the game Hog.
 
 In Hog, two players altenate trying to be the first to end a turn with at least 100 points. Every turn the player chooses a number between 0-10, and the sum of the dice outcomes will be the player's score.
 
